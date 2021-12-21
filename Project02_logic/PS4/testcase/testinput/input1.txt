@@ -1,0 +1,6 @@
+K
+4
+A OR B OR C
+D OR K 
+P
+-P
