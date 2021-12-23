@@ -6,5 +6,5 @@
   Solving Maze with Bonus point
   
  # Project 2: 
-    Logic: Propositional logic Resolution 
+   Logic: Propositional logic Resolution 
 
