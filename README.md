@@ -9,5 +9,5 @@
    Logic: Propositional logic Resolution 
  
  # Project 3:
-   Create decision tree with Julia   (Iris Dataset)
+   Create decision tree from Scratch with Julia   (Iris Dataset)
 
