@@ -8,6 +8,6 @@
  # Project 2: 
    Logic: Propositional logic Resolution 
  
- #Project 3:
+ # Project 3:
    Create decision tree with Julia   (Iris Dataset)
 
